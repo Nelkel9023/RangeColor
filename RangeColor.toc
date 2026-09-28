@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: RangeColor
+## Notes: Recolors default action bar buttons when out of range
+## Author: RangeColor
+## Version: 1.3
+## X-Category: Action Bars
+## SavedVariables: RangeColorDB
+
+RangeColor.lua
